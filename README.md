@@ -44,7 +44,7 @@ Onde:
 * **30** = quantidade aproximada de dias no mês;
 * **1000** = conversão de watts para quilowatts.
 
-### 💰 Cálculo do custo
+### Cálculo do custo
 
 O custo estimado é calculado utilizando:
 
